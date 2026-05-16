@@ -9,7 +9,7 @@
     "ip": "hiddenevents.aternos.me",
     "port": 54264,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
